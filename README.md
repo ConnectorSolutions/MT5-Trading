@@ -8,7 +8,7 @@ Connector Solutions is a software company specializing in developing solutions f
 
 ## Installation
 
-Please refer to the [(https://github.com/ConnectorSolutions/MT5-Trading/blob/main/cs_multi_manual_en.pdf)](https://github.com/ConnectorSolutions/MT5-Trading/blob/main/cs_multi_manual_en.pdf) for detailed instructions on setting up the Connector Solutions software.
+Please refer to the (https://github.com/ConnectorSolutions/MT5-Trading/blob/main/cs_multi_manual_en.pdf) for detailed instructions on setting up the Connector Solutions software.
 
 ## Usage
 
@@ -16,7 +16,7 @@ Our software provides a user-friendly interface to connect Metatrader 5 with mul
 
 ## Contributing
 
-We welcome contributions from the community to enhance our software. If you are interested in contributing to Connector Solutions, please follow the guidelines outlined in the [contribution guide](https://github.com/ConnectorSolutions/MT5-Trading/blob/main/cs_multi_manual_en.pdf).
+We welcome contributions from the community to enhance our software. If you are interested in contributing to Connector Solutions, please follow the guidelines outlined in the (https://github.com/ConnectorSolutions/MT5-Trading/blob/main/cs_multi_manual_en.pdf).
 
 ## Contact
 
